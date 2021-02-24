@@ -1,0 +1,1 @@
+oboe /Users/danwhitaker/Documents/Uncharted-Systems/obsidian -t /Users/danwhitaker/Documents/Uncharted-Systems/obsidian/unchartedsystems.github.io/template.html -o /Users/danwhitaker/Documents/Uncharted-Systems/obsidian/unchartedsystems.github.io/blog
